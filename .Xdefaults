@@ -60,7 +60,7 @@ urxvt.cutchars:        `()'*<>[]{|}"
 
 ! Appearance
 !  - use xft for drawing fonts
-urxvt*font:       xft:Inconsolata:11
+urxvt*font:       xft:Inconsolata:Medium:9
 !  - cursor
 urxvt*cursorColor: #DCDCCC
 !  - pseudo transparency
