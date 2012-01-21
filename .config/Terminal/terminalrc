@@ -29,7 +29,7 @@ FontName=Inconsolata Medium 11
 ColorPalette5=#31793179ded0
 ColorBackground=#0000008814ef
 FontAllowBold=FALSE
-BackgroundMode=TERMINAL_BACKGROUND_IMAGE
+BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 AccelNewWindow=
 AccelDetachTab=
 AccelCloseTab=
@@ -45,4 +45,5 @@ AccelSwitchToTab7=
 AccelSwitchToTab8=
 AccelSwitchToTab9=
 AccelContents=
+BackgroundDarkness=0,780000
 
